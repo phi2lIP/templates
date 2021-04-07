@@ -20,3 +20,4 @@ He makes a suggestion to use 52 rather than 56 in the template to change LED beh
 
 It is possible to use solid core 24 AWG wires to make the connection without needing to solder them to the Sinilink board, but they may need soldering to a connector for the USB to serial adapter.
 
+As flashing adapter also this https://www.tindie.com/products/21512/ can be used, which is also referenced for flashing Shelly2.5. (of course, pinout order is not identical)
